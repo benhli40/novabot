@@ -81,3 +81,5 @@ Expand automation features
 
 NovaBot is a starting point for building an intelligent, interactive AI assistant. Have fun coding! 🚀
 
+Final readme edit -- I do plan on adding more modules to this in time, making t a more robust and extensive application overall. Just have fun with it evereyone!
+
